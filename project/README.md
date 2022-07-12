@@ -78,17 +78,15 @@ There's two things we would like to see being done when using the Trello board. 
 
 Please click on the link that corresponds to your group number. If you haven't already got a Trello account, you will be prompted to make one. Please follow the process of signing up for an account and then proceed to joining your groups' Trello board.
 
-**Group 1:** https://trello.com/invite/b/EciVpnBY/e05b8c91c75b129235e652f6e6d4b688/bnta-c6a-group-1
+**Group 1:** https://trello.com/invite/b/Rqs6MQE0/56db90740c808d4e0e0a85c9a65e4f62/bnta-c6b-group-1
 
-**Group 2:** https://trello.com/invite/b/XXm8Iq4Z/072634e966132fafca2d384e1ca9ade8/bnta-c6a-group-2
+**Group 2:** https://trello.com/invite/b/DvlqvJmy/0d8e2a482a076acc9f7e780a5479e33a/bnta-c6b-group-2
 
-**Group 3:** https://trello.com/invite/b/pRI2hqZx/f868ceb357d6d7fb0120382954c75811/bnta-c6a-group-3
+**Group 3:** https://trello.com/invite/b/01rGUIUF/4a5b7600fbbdb4dba479b8f29334daa8/bnta-c6b-group-3
 
-**Group 4:** https://trello.com/invite/b/Q2luGEqZ/c89ea7b04edbf3e0e75528c0ac84045d/bnta-c6a-group-4
+**Group 4:** https://trello.com/invite/b/e8Ts1vtt/33cc124c16043696c7102bbef12c9ae8/bnta-c6b-group-4
 
-**Group 5:** https://trello.com/invite/b/2WCAPDqe/7e8e0155c18981f726a7dcee6dafd268/bnta-c6a-group-5
-
-**Group 6:** https://trello.com/invite/b/fbQyNHOT/0213563e87f7abd16b90619704c96708/bnta-c6a-group-6
+**Group 5:** https://trello.com/invite/b/qsYgePDy/7df343d1c8bcf6c4ff850d9dc04f2c77/bnta-c6b-group-5
 
 
 

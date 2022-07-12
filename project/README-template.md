@@ -18,8 +18,6 @@ This is a solution to the Shop landing page BNTA assessment day which will allow
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -54,11 +52,38 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS Grid
 - JavaScript
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge and will also serve to guide you through preparing for your presentation.
+The first thing I was able to learn was the DarkMode Feature. This was mentioned att he start of the 9am meeting and as it was okay with my team, I tasked myself with doing something that would test me to my limit. 
+There were many resources for this, however as I have come to find with many peices of code, some version were much longer than they needed to be.
+
+''''html
+
+<div>
+        <button onclick="darkMode()">Darkmode</button>
+    </div>
+     <script>
+        function darkMode() {
+          var element = document.body;
+          element.classList.toggle("dark-mode");
+        }
+    </script>
+    
+  Line 65 shows the implementation of a button "onclick" meaning it reacts to a click, but what it does exactly we use on CSS. The button is entitled Darkmode as can also be seeen. The most difficult element was the toggle button, as my initial resources had either two seperate buttons or a button that doesn't allow you to revert back to light mode.
+  
+  ```css
+  
+  .dark-mode {
+  background-color: black;
+  color: white;
+}
+
+My Darkmode essentially changes the background colour to black, and the text colour to white, as can be seen above in the CSS Code.
+
+
+  
+
 
 To see how you can add code snippets, see below:
 
@@ -76,31 +101,30 @@ const proudOfThisFunc = () => {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
+One area I would like to focus in on on more is making a more interactive website, with the use of the hover button for example. I know how to use this on a navbar but not in a flexbox and would like to be able to do this, however with more time I think it wouldn't be too much of a pressing issue.
+
+I would really like to improve on my ability to combine text and images, and use them in combination with each other. This is something I need to work on as I am not quite at the level I should be with regards to that.
+
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp
+https://www.w3schools.com/icons/
 
 ## Authors
 
-- Website Name - [Add your names here]
+- Website Name - [Ravi, Priscille, Arum, Faizan]
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+We had a really good team as everyone was extremely responsive, and eager to help each other. This allowed for one another to be comfortable in asking questions. 
+Arum was our 'go to' for noticing errors in our code. She was really good at spotting what could be added and how it could be done, which encouraged us to help each other more.
